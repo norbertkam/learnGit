@@ -1,4 +1,0 @@
-This is a test file
-loop is there
-Taki maly test
-git pull
